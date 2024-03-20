@@ -18,7 +18,7 @@ There are 3 main reasons people are in web 3: Tech, Art, Making money. Project S
 
 ### The Vision
 
-We believe in teaching a man to fish is much more powerful that giving him fish for a day. In Web-3 style, we are going to teach our money how to make more money using Defi strategies as well as a Solana validator. This will allow us to give slowly at first, but over a longer period of time, the impact of our giving should greatly outweigh the initial cost.
+We believe in teaching a man to fish is much more powerful that giving him fish for a day. In Web-3 style, we are going to teach a man to fish to catch fish that catch more fish using Defi strategies as well as a Solana validator. This will allow us to give slowly at first, but over a longer period of time, the impact of our giving should greatly outweigh the initial cost.
 
 Project Super will use the power of Solana for social good by creating community funded validator and then use the profits of that validator to give to charity or crisis relief. A platform for philanthropy that is “Only possible on Solana” will be blockchain transparent as well as enable global asset transfers to places of need instantly.
 

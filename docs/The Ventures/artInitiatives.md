@@ -1,7 +1,7 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
-# Profit Share
+# Art Initiatives
 
 ... under construction ....
